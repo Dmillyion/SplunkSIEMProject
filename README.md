@@ -111,3 +111,9 @@ We performed baseline analysis of normal activity and compared it with known att
 - Use Splunk correlation searches to tie related events together  
 - Educate staff on login hygiene and attack indicators  
 
+
+---
+
+## 🧪 Conclusion  
+
+This project demonstrated the power of SIEM tools like Splunk to identify, visualize, and respond to real-world cyber threats. Through our detailed baseline analysis and attack investigation, we were able to track down indicators of brute-force attempts, international threats, and suspicious user activity — all while recommending steps to prevent similar events in the future.
